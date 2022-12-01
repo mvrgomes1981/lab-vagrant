@@ -1,2 +1,2 @@
-# lab-vagrant
+# Laboratório de cluster com docker swarm utilizando vagrant
  
